@@ -1,0 +1,7 @@
+.shop {
+    -fx-padding: 10px;
+    -fx-background-image: url("donut");
+ }
+ .shop-plot-background {
+    -fx-background-color: transparent;
+ }
